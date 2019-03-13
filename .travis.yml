@@ -1,0 +1,60 @@
+# 指定语言环境
+language: node_js
+
+# 指定需要sudo权限
+sudo: required
+
+# 指定 CI 系统版本为 Ubuntu16.04 LTS
+dist: xenial
+
+# 指定node_js版本
+node_js: stable
+
+# 指定缓存模块，可选。缓存可加快编译速度。
+#cache:
+#  directories:
+#    - node_modules
+
+# 指定博客源码分支，因人而异。hexo博客源码托管在独立repo则不用设置此项
+branches:
+  only:
+    - source
+
+before_install: 
+  - export TZ='Asia/Shanghai' #配置时区为东八区UTC+8
+  - npm uninstall --all
+  - npm install hexo-cli # 安装 hexo
+#  - sudo apt-get install libpng16-dev # 安装 libpng16-dev CI编译出现相关报错时请取消注释
+
+# Start: Build Lifecycle
+install:
+  - npm install
+
+# 执行清缓存，生成网页操作
+script:
+  - hexo clean
+  - hexo generate
+
+deploy:
+  provider: pages
+  skip_cleanup: true # 跳过清理
+  local_dir: public # 需要推送到Github的静态文件目录 
+  name: $GIT_NAME # 用户名变量
+  email: $GIT_EMAIL # 用户邮箱变量
+  github_token: $GITHUB_TOKEN # GitHub Token变量
+#  keep-history: true # 保持推送记录，以增量提交的方式
+  target-branch: master # 推送的目标分支
+  on:
+    branch: source # 工作分支
+    
+after_deploy:
+  - cd /tmp
+  - git clone https://github.com/CBW2007/My_BLOG.git
+  - cd My_BLOG
+  - git remote add coding https://$CODING_USER:$CODING_TOKEN@git.dev.tencent.com/CBW2007/cbw2007.coding.me.git
+  - git push coding source:source -f
+  - git fetch origin master
+  - git checkout -b master origin/master
+  - git push coding master:master -f
+    
+# End: Build LifeCycle
