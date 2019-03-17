@@ -255,6 +255,10 @@
               #}{{ post.description }}{#
             #}</div>
           {% endif %}
+		  
+		  <span class="post-meta-divider">|</span>
+          <span title="{{ __('post.wordcount') }}">
+		  <span class="post-meta-item-icon"><i class="fa fa-file-word-o"></i></span>字数： {{ wordcount(post.content) }}字</span>
 
         </div>
       </header>
@@ -337,7 +341,11 @@
     {#####################}
     {### END POST BODY ###}
     {#####################}
-
+    <div>
+      {% if not is_index %}
+      {% include 'passage-end-tag.swig' %}
+      {% endif %}
+    </div>
     {% if theme.wechat_subscriber.enable and not is_index %}
       {% include '../_partials/post/wechat-subscriber.swig' %}
     {% endif %}
@@ -363,7 +371,7 @@
       {% if post.tags and post.tags.length and not is_index %}
         <div class="post-tags">
           {% for tag in post.tags %}
-            <a href="{{ url_for(tag.path) }}" rel="tag"># {{ tag.name }}</a>
+            <a href="{{ url_for(tag.path) }}" rel="tag"><i class="fa fa-tag"></i> {{ tag.name }}</a>
           {% endfor %}
         </div>
       {% endif %}

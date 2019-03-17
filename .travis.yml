@@ -22,7 +22,7 @@ branches:
 
 before_install: 
   - export TZ='Asia/Shanghai' #配置时区为东八区UTC+8
-  - npm uninstall --all
+  - npm -v
   - npm install hexo-cli # 安装 hexo
 #  - sudo apt-get install libpng16-dev # 安装 libpng16-dev CI编译出现相关报错时请取消注释
 
@@ -49,8 +49,8 @@ deploy:
     
 after_deploy:
   - cd /tmp
-  - git clone https://github.com/CBW2007/My_BLOG.git
-  - cd My_BLOG
+  - git clone https://github.com/CBW2007/BLOG.git
+  - cd BLOG
   - git remote add coding https://$CODING_USER:$CODING_TOKEN@git.dev.tencent.com/CBW2007/cbw2007.coding.me.git
   - git remote add gitee https://$GITEE_USER:$GITEE_TOKEN@gitee.com/CBW2007/MyBlog.git
   - git push coding source:source -f
