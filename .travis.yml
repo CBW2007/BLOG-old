@@ -8,8 +8,7 @@ sudo: required
 dist: xenial
 
 # 指定node_js版本
-node_js: 
-  - 7.9.0
+node_js: stable
 
 # 指定缓存模块，可选。缓存可加快编译速度。
 #cache:
@@ -23,7 +22,6 @@ branches:
 
 before_install: 
   - export TZ='Asia/Shanghai' #配置时区为东八区UTC+8
-  - npm -v
 #  - npm install hexo-cli # 安装 hexo
 #  - sudo apt-get install libpng16-dev # 安装 libpng16-dev CI编译出现相关报错时请取消注释
 
