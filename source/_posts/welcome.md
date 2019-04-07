@@ -1,5 +1,5 @@
 ---
-title: welcome
+title: WELCOME
 date: 2019-03-13 08:00:00
 tags:
 - 关于

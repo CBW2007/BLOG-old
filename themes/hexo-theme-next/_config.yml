@@ -188,10 +188,12 @@ site_state: true
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/CBW2007 || github
-  腾讯云开发者平台: https://dev.tencent.com/u/CBW2007 || cloud
   QQ-E-Mail: mailto:2337118038@qq.com || envelope
   126-E-Mail: mailto:cbw2007@126.com || envelope
+  GitHub: https://github.com/CBW2007 || github
+  腾讯云开发者平台: https://dev.tencent.com/u/CBW2007 || cloud
+  洛谷博客:  https://cbw2007.blog.luogu.org
+  CSDN博客: https://blog.csdn.net/CBW_2007
   #Weibo: https://weibo.com/yourname || weibo
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
@@ -206,6 +208,7 @@ social_icons:
   enable: true
   icons_only: false
   transition: false
+  
 
 # Blog rolls
 links_icon: link
@@ -780,7 +783,7 @@ busuanzi_count:
 #tencent_mta:
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO.
-baidu_push: true
+baidu_push: false
 
 # Google Calendar
 # Share your recent schedule to others via calendar page.
