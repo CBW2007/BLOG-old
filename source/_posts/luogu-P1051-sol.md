@@ -1,9 +1,8 @@
 ---
-title: 题解 P1051 【谁拿了最多奖学金】
+title: 洛谷题解 P1051 【谁拿了最多奖学金】
 tags:
   - OI
   - 洛谷
-  - 精品文章
 categories:
   - OI题解
 copyright: true
