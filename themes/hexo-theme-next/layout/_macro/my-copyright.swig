@@ -12,7 +12,7 @@
   <p><span>原始链接:</span><a href="{{ url_for(page.path) }}" title="{{ page.title }}">{{ page.permalink }}</a>
     <span class="copy-path"  title="点击复制文章链接"><i class="fa fa-clipboard" data-clipboard-text="{{ page.permalink }}"  aria-label="复制成功！"></i></span>
   </p>
-  <p><span>许可协议:</span><i class="fa fa-creative-commons"></i> <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" title="Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC 4.0)">署名-非商业性使用 4.0 国际</a> 转载请保留原文链接及作者。</p>  
+  <p><span>许可协议:</span></i> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> 采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议</a>进行许可。	本许可协议授权之外的使用权限可以从 <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:cbw2007@126.com" rel="cc:morePermissions">mailto:cbw2007@126.com</a> 处获得。
 </div>
 <script> 
     var clipboard = new Clipboard('.fa-clipboard');
