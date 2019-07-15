@@ -3,6 +3,7 @@ title: 洛谷题解 P1010 【幂次方】
 tags:
   - OI
   - 洛谷
+  - 精品文章
 categories:
   - OI题解
 copyright: true
