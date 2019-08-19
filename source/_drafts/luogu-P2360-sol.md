@@ -1,4 +1,3 @@
----
 title: 题解 P2360 【地下城主】
 tags:
   - OI
@@ -9,7 +8,7 @@ copyright: true
 mathjax: false
 top: false
 comments: true
-date: 2019-06-28 10:53:32
+date: 2019-06-28 10:53:00
 ---
 
 > 原题链接：[ P2360 地下城主 - 洛谷 | 计算机科学教育新生态](https://www.luogu.org/problemnew/show/P2360)
