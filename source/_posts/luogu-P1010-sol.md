@@ -1,11 +1,11 @@
 ---
 title: 洛谷题解 P1010 【幂次方】
 tags:
-  - OI
+  - 题解
   - 洛谷
   - 精品文章
 categories:
-  - OI题解
+  - OI
 copyright: true
 mathjax: true
 top: false
@@ -72,3 +72,6 @@ void dfs(int k)//传入一个数
 }
 ```
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjg3MDg1MDQzXX0=
+-->
