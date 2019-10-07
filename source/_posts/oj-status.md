@@ -2,9 +2,9 @@
 title: OJ常见评测状态
 date: 2018-01-29 08:00:00
 tags:
-  - OI
-categories:
   - 小知识
+categories:
+  - OI
 copyright: true
 mathjax: true
 top: false
@@ -33,3 +33,6 @@ comments: true
 | Unknown Error | UKE | 未知错误 | 出现未知错误。最玄学的一种。（不常见） |
 
 本地由于编译器与运行环境不同，有可能部分代码会出现“本地通过，提交错误的情况”。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5MjQwNzA1MDldfQ==
+-->
