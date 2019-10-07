@@ -1,11 +1,11 @@
 ---
 title: 洛谷题解 P1420 【最长连号】
 tags:
-  - OI
+  - 题解
   - 洛谷
   - 精品文章
 categories:
-  - OI题解
+  - OI
 copyright: true
 mathjax: false
 top: false
@@ -60,3 +60,6 @@ int main()
 ```
 
 评测传送门：[R8960739 评测详情 - 洛谷](https://www.luogu.org/record/show?rid=8960739)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIwOTMwNzU2NV19
+-->
