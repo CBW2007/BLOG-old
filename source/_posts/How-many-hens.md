@@ -1,10 +1,10 @@
 ---
 title: 多少母鸡？
 tags:
-  - 数学
+  - 题解
   - 思维题
 categories:
-  - 数学题解
+  - 数学
 copyright: true
 mathjax: true
 top: false
@@ -126,3 +126,6 @@ $$
 ~~大方不好~~
 
 当一道数学题没有思路时，可以像这次一样将题目抽象化，实例化，寻找思路。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMTM2MjIyMTZdfQ==
+-->
