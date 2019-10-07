@@ -1,10 +1,10 @@
 ---
 title: 洛谷题解 P1138 【第k小整数】
 tags:
-  - OI
+  - OI题解
   - 洛谷
 categories:
-  - OI题解
+  - OI
 copyright: true
 mathjax: true
 top: false
@@ -103,3 +103,6 @@ int main()
 ```
 
 附：[c&cppAPI.chm](https://cdn.cbw2007.tk/%E6%96%87%E4%BB%B6/c&cppAPI.chm)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ0ODE3Mjc0NF19
+-->
