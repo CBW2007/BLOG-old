@@ -1,10 +1,10 @@
 ---
 title: 洛谷题解 P1028 【数的计算】
 tags:
-  - OI
+  - OI题解
   - 洛谷
 categories:
-  - OI题解
+  - OI
 copyright: true
 mathjax: false
 top: false
@@ -81,3 +81,6 @@ int main()
 ------------
 
 经过讲解是不是很简单呢？
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3OTQxOTcxMzddfQ==
+-->
