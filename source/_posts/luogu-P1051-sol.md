@@ -1,10 +1,10 @@
 ---
 title: 洛谷题解 P1051 【谁拿了最多奖学金】
 tags:
-  - OI
+  - OI题解
   - 洛谷
 categories:
-  - OI题解
+  - OI
 copyright: true
 mathjax: true
 top: false
@@ -62,3 +62,6 @@ int main()
 目测别人的辅助空间：$O(n)$ 我的：$O(1)$
 
 因为本人还是个新手OIer，发表的题解还有许多不足之处，如果有人指出，本人将虚心接受。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTUxOTg1MzYxMV19
+-->
