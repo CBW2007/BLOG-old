@@ -5,7 +5,7 @@
 # Site
 title: CBW2007 BLOG
 subtitle: 欢迎来到我的博客!
-description: 小C的博客^_^
+description: 一个小白也能看得懂的博客！
 keywords: C++,OI,学生党
 author: CaoBowen
 language: zh-CN
@@ -15,7 +15,7 @@ timezone: Asia/Shanghai
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://www.cbw2007.tk
 root: /
-permalink: posts/:title/
+permalink: articles/:title/
 permalink_defaults: 
 
 # Directory
@@ -27,7 +27,6 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
-- 404.html
 
 # Writing
 new_post_name: :title.md # File name of new posts
