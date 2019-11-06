@@ -1,7 +1,7 @@
 ---
 title: 多少母鸡？
 tags:
-  - 题解
+  - 数学题解
   - 思维题
 categories:
   - 数学

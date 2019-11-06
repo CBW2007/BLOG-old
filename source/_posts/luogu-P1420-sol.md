@@ -1,7 +1,7 @@
 ---
 title: 洛谷题解 P1420 【最长连号】
 tags:
-  - 题解
+  - OI题解
   - 洛谷
   - 精品文章
 categories:
