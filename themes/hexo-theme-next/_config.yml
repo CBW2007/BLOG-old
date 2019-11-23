@@ -217,6 +217,7 @@ links_layout: block
 #links_layout: inline
 links:
   洛谷: https://www.luogu.org/
+  huzpsb's blog: http://huzpsb.cf/
 
 # Sidebar Avatar
 avatar:
