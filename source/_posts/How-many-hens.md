@@ -5,6 +5,10 @@ tags:
   - 思维题
 categories:
   - 数学
+keywords:
+  - 数学
+  - 数学思维题
+description: 张伯伯和李伯伯一共有106只鸡，李的3/8是公鸡，张的7/11是母鸡，求张和李一共有多少只母鸡？
 copyright: true
 mathjax: true
 top: false
@@ -126,6 +130,3 @@ $$
 ~~大方不好~~
 
 当一道数学题没有思路时，可以像这次一样将题目抽象化，实例化，寻找思路。
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM2MjIyMTZdfQ==
--->

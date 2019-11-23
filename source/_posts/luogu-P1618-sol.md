@@ -5,6 +5,14 @@ tags:
   - 洛谷
 categories:
   - OI
+keywords:
+  - 信息技术
+  - OI
+  - C++
+  - luogu
+  - 题解
+  - 枚举
+description: 洛谷P1618【三连击（升级版）】的C++枚举写法
 copyright: true
 mathjax: true
 top: false
@@ -201,6 +209,3 @@ int main()
 ```
 
 终于AC（[R7456556 评测详情 - 洛谷](https://www.luogu.org/record/show?rid=7456556)）了！
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5Mzk2OTgyXX0=
--->

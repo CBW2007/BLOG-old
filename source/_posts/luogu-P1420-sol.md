@@ -6,6 +6,12 @@ tags:
   - 精品文章
 categories:
   - OI
+keywords:
+  - OI
+  - C++
+  - luogu
+  - 题解
+description: 洛谷P1420【数的计算】的C++不用数组写法
 copyright: true
 mathjax: false
 top: false
@@ -60,6 +66,3 @@ int main()
 ```
 
 评测传送门：[R8960739 评测详情 - 洛谷](https://www.luogu.org/record/show?rid=8960739)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTMwNzU2NV19
--->

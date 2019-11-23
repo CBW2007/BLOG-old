@@ -6,6 +6,13 @@ tags:
   - 精品文章
 categories:
   - OI
+keywords:
+  - OI
+  - C++
+  - luogu
+  - 题解
+  - 递归
+description: 洛谷P1010【幂次方】的C++递归、模拟写法
 copyright: true
 mathjax: true
 top: false
@@ -72,6 +79,3 @@ void dfs(int k)//传入一个数
 }
 ```
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3MDg1MDQzXX0=
--->

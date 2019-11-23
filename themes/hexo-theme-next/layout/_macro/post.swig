@@ -256,11 +256,11 @@
             </div>
           {% endif %}
 
-          {% if post.description and (not theme.excerpt_description or not is_index) %}
+<!--          {% if post.description and (not theme.excerpt_description or not is_index) %}
             <div class="post-description">{#
               #}{{ post.description }}{#
             #}</div>
-          {% endif %}
+          {% endif %}-->
 		  
 		  <span class="post-meta-divider">|</span>
           <span title="{{ __('post.wordcount') }}">
@@ -291,18 +291,7 @@
       {% endif %}
 
       {% if is_index %}
-        {% if post.description and theme.excerpt_description %}
-          {{ post.description }}
-          <!--noindex-->
-          {% if theme.read_more_btn %}
-            <div class="post-button text-center">
-              <a class="btn" href="{{ url_for(post.path) }}">
-                {{ __('post.read_more') }} &raquo;
-              </a>
-            </div>
-          {% endif %}
-          <!--/noindex-->
-        {% elif post.excerpt %}
+        {% if post.excerpt %}
           {{ post.excerpt }}
           <!--noindex-->
           {% if theme.read_more_btn %}

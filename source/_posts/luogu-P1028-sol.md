@@ -5,6 +5,13 @@ tags:
   - 洛谷
 categories:
   - OI
+keywords:
+  - OI
+  - C++
+  - luogu
+  - 题解
+  - 记忆化搜索
+description: 洛谷P1028【数的计算】的C++记忆化搜索写法
 copyright: true
 mathjax: false
 top: false
@@ -81,6 +88,3 @@ int main()
 ------------
 
 经过讲解是不是很简单呢？
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQxOTcxMzddfQ==
--->

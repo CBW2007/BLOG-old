@@ -5,6 +5,13 @@ tags:
   - 洛谷
 categories:
   - OI
+keywords:
+  - OI
+  - C++
+  - luogu
+  - 题解
+  - set
+description: 洛谷P1028【第k小整数】的C++·set写法
 copyright: true
 mathjax: true
 top: false
@@ -103,6 +110,3 @@ int main()
 ```
 
 附：[c&cppAPI.chm](https://cdn.cbw2007.tk/%E6%96%87%E4%BB%B6/c&cppAPI.chm)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0ODE3Mjc0NF19
--->
