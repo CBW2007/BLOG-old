@@ -6,7 +6,7 @@
 title: CBW2007's BLOG
 subtitle: 欢迎来到我的博客!
 description: 一个小白也能看得懂的博客！
-keywords: C++,OI,学生党
+keywords: C++,OI,信息技术,信息学奥赛,博客
 author: CaoBowen
 language: zh-CN
 timezone: Asia/Shanghai
@@ -98,6 +98,9 @@ nofollow:
     enable: true
     exclude:
     - www.luogu.org
+    - cbw2007.blog.luogu.org
+    - blog.csdn.net
+    - github.com
   
 # Live2D
 ## https://github.com/EYHN/hexo-helper-live2d
