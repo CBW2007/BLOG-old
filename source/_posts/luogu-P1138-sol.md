@@ -19,7 +19,7 @@ comments: true
 date: 2019-05-22 20:22:16
 ---
 
-> 原题链接：[ P1028 第k小整数 - 洛谷 | 计算机科学教育新生态](https://www.luogu.org/problemnew/show/P1138)
+> 原题链接：[ P1028 第k小整数 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/show/P1138)
 
 <!--more-->
 
@@ -109,4 +109,4 @@ int main()
 }
 ```
 
-附：[c&cppAPI.chm](https://cdn.cbw2007.tk/%E6%96%87%E4%BB%B6/c&cppAPI.chm)
+附：c&cppAPI.chm

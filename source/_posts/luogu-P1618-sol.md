@@ -6,7 +6,6 @@ tags:
 categories:
   - OI
 keywords:
-  - 信息技术
   - OI
   - C++
   - luogu
@@ -20,11 +19,11 @@ comments: true
 date: 2018-05-22 08:00:00
 ---
 
-> 原题链接：[ P1618 三连击（升级版） - 洛谷 | 计算机科学教育新生态](https://www.luogu.org/problemnew/show/P1618)
+> 原题链接：[ P1618 三连击（升级版） - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/show/P1618)
 
 <!--more-->
 
-其实这题挺简单，没做过的先去试试[【P1008】三连击](https://www.luogu.org/problemnew/show/P1008)
+其实这题挺简单，没做过的先去试试[【P1008】三连击](https://www.luogu.com.cn/problem/show/P1008)
 
 ## 分析
 
@@ -83,7 +82,7 @@ int main()
 }
 ```
 
-这个方法只能得60分（[R7439961 评测详情 - 洛谷](https://www.luogu.org/record/show?rid=7439961)）。为什么呢？看case#1
+这个方法只能得60分（[R7439961 评测详情 - 洛谷](https://www.luogu.com.cn/record/7439961)）。为什么呢？看case#1
 
 input：
 
@@ -148,7 +147,7 @@ int main()
     return 0;
 }
 ```
-总体思路差不多，我就不多说了。可是一提交80了（[R7456125 评测详情 - 洛谷](https://www.luogu.org/record/show?rid=7456125)）。
+总体思路差不多，我就不多说了。可是一提交80了（[R7456125 评测详情 - 洛谷](https://www.luogu.com.cn/record/7456125)）。
 再看case#5
 
 input:
@@ -208,4 +207,4 @@ int main()
 }
 ```
 
-终于AC（[R7456556 评测详情 - 洛谷](https://www.luogu.org/record/show?rid=7456556)）了！
+终于AC（[R7456556 评测详情 - 洛谷](https://www.luogu.com.cn/record/7456556)）了！

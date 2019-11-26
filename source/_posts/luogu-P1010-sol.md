@@ -20,7 +20,7 @@ comments: true
 date: 2019-07-12 08:49:29
 ---
 
-> 原题链接：[ P1010 幂次方 - 洛谷 | 计算机科学教育新生态](https://www.luogu.org/problemnew/show/P1010)
+> 原题链接：[ P1010 幂次方 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/show/P1010)
 
 <!--more-->
 
