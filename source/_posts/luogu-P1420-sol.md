@@ -9,9 +9,9 @@ categories:
 keywords:
   - OI
   - C++
-  - luogu
+  - 洛谷P1420【数的计算】
   - 题解
-description: 洛谷P1420【数的计算】的C++不用数组写法
+description: 洛谷P1420【数的计算】C++语言的不用数组写法
 copyright: true
 mathjax: false
 top: false

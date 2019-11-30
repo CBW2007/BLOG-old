@@ -8,10 +8,10 @@ categories:
 keywords:
   - OI
   - C++
-  - luogu
+  - 洛谷P1618【三连击（升级版）】
   - 题解
   - 枚举
-description: 洛谷P1618【三连击（升级版）】的C++枚举写法
+description: 洛谷P1618【三连击（升级版）】C++语言的枚举写法
 copyright: true
 mathjax: true
 top: false

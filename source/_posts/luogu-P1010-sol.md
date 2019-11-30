@@ -9,10 +9,10 @@ categories:
 keywords:
   - OI
   - C++
-  - luogu
+  - 洛谷P1010【幂次方】
   - 题解
   - 递归
-description: 洛谷P1010【幂次方】的C++递归、模拟写法
+description: 洛谷P1010【幂次方】C++语言的递归、模拟写法
 copyright: true
 mathjax: true
 top: false

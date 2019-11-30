@@ -8,10 +8,10 @@ categories:
 keywords:
   - OI
   - C++
-  - luogu
+  - 洛谷P1051【谁拿了最多奖学金】
   - 题解
   - 模拟
-description: 洛谷P1051【谁拿了最多奖学金】的C++不排序写法
+description: 洛谷P1051【谁拿了最多奖学金】C++语言的不排序写法
 copyright: true
 mathjax: true
 top: false

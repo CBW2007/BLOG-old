@@ -8,7 +8,7 @@ categories:
 keywords:
   - OI
   - C++
-  - luogu
+  - OJ
   - 小知识
 description: OJ(Online Judge，在线测评系统)中的许多评测状态
 copyright: true

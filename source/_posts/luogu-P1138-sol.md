@@ -8,10 +8,10 @@ categories:
 keywords:
   - OI
   - C++
-  - luogu
+  - 洛谷P1028【第k小整数】
   - 题解
   - set
-description: 洛谷P1028【第k小整数】的C++·set写法
+description: 洛谷P1028【第k小整数】C++语言的STL-set写法
 copyright: true
 mathjax: true
 top: false

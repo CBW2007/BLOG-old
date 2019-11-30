@@ -8,10 +8,10 @@ categories:
 keywords:
   - OI
   - C++
-  - luogu
+  - 洛谷P1028【数的计算】
   - 题解
   - 记忆化搜索
-description: 洛谷P1028【数的计算】的C++记忆化搜索写法
+description: 洛谷P1028【数的计算】C++语言的记忆化搜索写法
 copyright: true
 mathjax: false
 top: false
