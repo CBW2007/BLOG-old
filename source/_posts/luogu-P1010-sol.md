@@ -20,11 +20,9 @@ comments: true
 date: 2019-07-12 08:49:29
 ---
 
-> 原题链接：[ P1010 幂次方 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/show/P1010)
+> 原题链接：[ P1010 幂次方 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/P1010)
 
 <!--more-->
-
-在我的博客食用效果更佳！<https://www.cbw2007.tk/posts/luogu-P1010-sol>
 
 ## 分析
 

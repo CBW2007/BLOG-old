@@ -19,7 +19,7 @@ comments: true
 date: 2018-05-28 08:00:00
 ---
 
-> 原题链接：[ P1051 谁拿了最多奖学金 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/show/P1028)
+> 原题链接：[ P1051 谁拿了最多奖学金 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/P1028)
 
 <!--more-->
 
@@ -62,7 +62,6 @@ int main()
     return 0;
 }
 ```
-评测记录：[R7573000 评测详情 - 洛谷](https://www.luogu.com.xn/record/7573000)
 
 目测别人的时间复杂度：$O(n log_2 n)$（因为快排） 我的：$O(n)$
 

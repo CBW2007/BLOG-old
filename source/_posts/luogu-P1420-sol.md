@@ -19,7 +19,7 @@ comments: true
 date: 2018-07-27 08:00:00
 ---
 
-> 原题链接：[ P1420 数的计算 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/show/P1420)
+> 原题链接：[ P1420 数的计算 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/P1420)
 
 <!--more-->
 
@@ -64,5 +64,3 @@ int main()
     return 0;
 }
 ```
-
-评测传送门：[R8960739 评测详情 - 洛谷](https://www.luogu.com.cn/record/8960739)

@@ -19,7 +19,7 @@ comments: true
 date: 2017-12-24 08:00:00
 ---
 
-> 原题链接：[ P1028 数的计算 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/show/P1028)
+> 原题链接：[ P1028 数的计算 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/P1028)
 
 <!--more-->
 
@@ -53,7 +53,7 @@ int main()
     return 0;
 }
 ```
-此方法评测记录（25分）：[R5103664 评测详情 - 洛谷](https://www.luogu.com.cn/record/5103664)
+此方法25分。
 
 ### 方法二：记忆化搜索
 
@@ -83,7 +83,7 @@ int main()
         return 0;
     }
 ```
-此方法评测记录（满分）：[R5118853 评测详情 - 洛谷](https://www.luogu.com.cn/record/5118853)
+此方法满分。
 
 ------------
 

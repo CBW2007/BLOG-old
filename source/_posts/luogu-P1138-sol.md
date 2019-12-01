@@ -19,13 +19,11 @@ comments: true
 date: 2019-05-22 20:22:16
 ---
 
-> 原题链接：[ P1028 第k小整数 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/show/P1138)
+> 原题链接：[ P1028 第k小整数 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/P1138)
 
 <!--more-->
 
 **STL大法吼啊！**
-
-在我的博客食用效果更佳！<https://www.cbw2007.tk/posts/luogu-P1138-sol>
 
 ## 分析
 
