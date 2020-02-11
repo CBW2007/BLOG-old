@@ -47,17 +47,17 @@ deploy:
   on:
     branch: source # 工作分支
     
-after_deploy:
-  - cd /tmp
-  - git clone https://github.com/CBW2007/BLOG.git
-  - cd BLOG
-  - git remote add coding https://$CODING_USER:$CODING_TOKEN@git.dev.tencent.com/CBW2007/cbw2007.coding.me.git
+#after_deploy:
+#  - cd /tmp
+#  - git clone https://github.com/CBW2007/BLOG.git
+#  - cd BLOG
+#  - git remote add coding https://$CODING_USER:$CODING_TOKEN@git.dev.tencent.com/CBW2007/cbw2007.coding.me.git
 #  - git remote add gitee https://$GITEE_USER:$GITEE_TOKEN@gitee.com/CBW2007/cbw2007.gitee.io.git
-  - git push coding source:source -f
+#  - git push coding source:source -f
 #  - git push gitee source:source -f
-  - git fetch origin master
-  - git checkout -b master origin/master
-  - git push coding master:master -f
+#  - git fetch origin master
+#  - git checkout -b master origin/master
+#  - git push coding master:master -f
 #  - git push gitee master:master -f
     
 # End: Build LifeCycle
