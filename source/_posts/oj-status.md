@@ -2,9 +2,10 @@
 title: OJ常见评测状态
 date: 2018-01-29 08:00:00
 tags:
+  - OI笔记
   - 小知识
 categories:
-  - OI
+  - OI笔记
 keywords:
   - OI
   - C++

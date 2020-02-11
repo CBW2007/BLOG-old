@@ -4,7 +4,7 @@ tags:
   - OI题解
   - 洛谷
 categories:
-  - OI
+  - OI题解
 keywords:
   - OI
   - C++

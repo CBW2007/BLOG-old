@@ -25,3 +25,15 @@ comments: true
 - 2018.03.19 荣获蚌埠市信息学奥林匹克竞赛(BBOI2018)小学编程组**一等奖**。
 - 2018.05.07 代表市队荣获安徽省信息学奥林匹克竞赛（AHOI2018）小学组**个人一等奖**。同时祝贺市队（蚌埠）获得**第二**的好成绩，超过芜湖，仅次于合肥。
 - 2018.12.04 荣获2018年全国信息学奥林匹克联赛（NOIP2018）普及组**一等奖**。
+- 2019.12.15 荣获2019年计算机非专业组别能力认证入门组**一等奖**。
+
+* * *
+
+下面是Markdown测试：
+
+{% note default%}  这是primary效果{% endnote%}
+{% note primary%}  这是primary效果{% endnote%}
+{% note success%}  这是success效果{% endnote%}
+{% note info%}  这是info效果{% endnote%}
+{% note warning%}  这是warning效果{% endnote%}
+{% note danger%}  这是danger效果{% endnote%}

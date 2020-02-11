@@ -20,9 +20,7 @@ date: 2019-3-13 07:59:59
 目前有三个博客，分别为：
 
 - [自建博客（当前）](https://www.cbw2007.tk)
-
 - [洛谷博客](https://cbw2007.blog.luogu.org/)
-
 - [CSDN博客](https://blog.csdn.net/CBW_2007)
 
 ## 各文章在不同博客上的存在

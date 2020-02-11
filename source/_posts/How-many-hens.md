@@ -4,7 +4,7 @@ tags:
   - 数学题解
   - 数学思维题
 categories:
-  - 数学
+  - 数学题解
 keywords:
   - 数学
   - 数学思维题

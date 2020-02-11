@@ -5,7 +5,7 @@ tags:
   - 洛谷
   - 精品文章
 categories:
-  - OI
+  - OI题解
 keywords:
   - OI
   - C++
