@@ -13,7 +13,7 @@ keywords:
   - set
 description: 洛谷P1028【第k小整数】C++语言的STL-set写法
 copyright: true
-mathjax: true
+mathjax: false
 top: false
 comments: true
 date: 2019-05-22 20:22:16
@@ -72,7 +72,7 @@ for (set<int>::iterator i=a.begin();i!=a.end();i++)
 
 ## 应用在此题中
 
-首先，我们可以使用`insert`函数用来插入元素。然后使用size来判断元素够不够$k$个，最后按照上文的方法进行遍历即可！
+首先，我们可以使用`insert`函数用来插入元素。然后使用size来判断元素够不够 k 个，最后按照上文的方法进行遍历即可！
 
 本文代码：
 
@@ -107,4 +107,4 @@ int main()
 }
 ```
 
-附：c&cppAPI.chm
+附：[c&cppAPI.chm](https://share.weiyun.com/5QK95ED)
