@@ -1,18 +1,16 @@
 ---
-title: Codeforces(暨洛谷)题解 CF1313A【Fast Food Restaurant】
+title: Codeforces Round #622 (Div. 2) A题【Fast Food Restaurant】题解
 tags:
   - OI题解
-  - 洛谷
   - Codeforces
 categories:
   - OI题解
 keywords:
-  - 洛谷
   - Codeforces
   - C++
   - 题解
-  - CF1313A【Fast Food Restaurant】
-description: Codeforces(暨洛谷) CF1313A【Fast Food Restaurant】动规方式题解
+  - CF622-Div2-A-【Fast Food Restaurant】
+description: Codeforces Round #622 (Div. 2) A题【Fast Food Restaurant】动规方式题解
 copyright: true
 mathjax: false
 top: false
