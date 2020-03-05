@@ -1,5 +1,5 @@
 ---
-title: Codeforces Round #622 (Div. 2) A题【Fast Food Restaurant】题解
+title: Codeforces R622(Div.2)A 题解
 tags:
   - OI题解
   - Codeforces
@@ -17,6 +17,8 @@ top: false
 comments: true
 date: 2020-03-03 14:28:12
 ---
+
+Codeforces Round #622 (Div. 2) A题【Fast Food Restaurant】题解
 
 > 原题链接：[Problem - A - Codeforces](https://codeforces.com/contest/1313/problem/A)或[CF1313A Fast Food Restaurant - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/CF1313A)
 
