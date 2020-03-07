@@ -97,10 +97,12 @@ search:
 nofollow:
     enable: true
     exclude:
-    - www.luogu.org
+    - www.luogu.com.cn
     - cbw2007.blog.luogu.org
     - blog.csdn.net
     - github.com
+    - codeforces.com
+    
   
 # Live2D
 ## https://github.com/EYHN/hexo-helper-live2d
