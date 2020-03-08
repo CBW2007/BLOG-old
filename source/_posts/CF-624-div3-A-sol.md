@@ -3,6 +3,7 @@ title: Codeforces R624(Div.3)A 题解
 tags:
   - OI题解
   - Codeforces
+  - 精品文章
 categories:
   - OI题解
 keywords:
@@ -26,7 +27,7 @@ Codeforces Round #624 (Div. 3) A题【Add Odd or Subtract Even】题解
 
 咱们先稍微转一下，加上正奇数就改变了一个数的奇偶性，反之不变；而差为奇数说明两个数之间奇偶性不同，反之相同；另外，由于每次操作数字不限制，要多少有多少，所以我们的问题只剩下奇偶性问题。
 
-再理一下情况：（有个typo，请见谅）
+再理一下情况：（有个typo，请见谅，如果无法加载请[手动观看](https://cdn.luogu.com.cn/upload/image_hosting/rbfx9ai7.png)）
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/rbfx9ai7.png)
 
