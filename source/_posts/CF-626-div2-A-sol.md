@@ -3,6 +3,7 @@ title: Codeforces R626(Div.2)A 题解
 tags:
   - OI题解
   - CodeForces
+  - 精品文章
 categories:
   - OI题解
 keywords:
@@ -21,6 +22,8 @@ date: 2020-03-10 19:37:45
 Codeforces Round #626 (Div. 2) A题【Even Subset Sum Problem】题解
 
 > 原题链接：[Problem - 1323A - Codeforces](https://codeforces.com/problemset/problem/1323/A)或[CF1323A Even Subset Sum Problem - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/CF1323A)
+
+<!--more-->
 
 这题还是很水的，跟着题意模拟就行了，但是我在review其他大佬的代码时，发现了一种稍微不一样的思路：
 
