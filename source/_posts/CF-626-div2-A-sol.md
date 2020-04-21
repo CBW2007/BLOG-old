@@ -2,7 +2,7 @@
 title: Codeforces R626(Div.2)A 题解
 tags:
   - OI题解
-  - CodeForces
+  - Codeforces
   - 精品文章
 categories:
   - OI题解
